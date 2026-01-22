@@ -82,59 +82,59 @@ Each section follows the same order as the application’s menu flow for clarity
 Below are screenshots demonstrating the complete workflow and features of **ChronoSphere**.
 
 ### 🏠 Dashboard & Main Menu
-- [Dashboard](screenshots/dashboard.jpg)
-- [Main Menu](screenshots/main_menu.jpg)
+- [Dashboard](screenshots/dashboard.JPG)
+- [Main Menu](screenshots/main_menu.JPG)
 
 ---
 
 ### 🌍 World Clock
-- [World Clock Menu](screenshots/world_clock/world_clock_menu.jpg)
-- [Cities List](screenshots/world_clock/cities.jpg)
-- [Custom City](screenshots/world_clock/custom_city.jpg)
-- [Add City](screenshots/world_clock/adding_cities.jpg)
-- [Delete City](screenshots/world_clock/deleting_cities.jpg)
-- [Live Time Updates](screenshots/world_clock/live_times.jpg)
+- [World Clock Menu](screenshots/world_clock/world_clock_menu.JPG)
+- [Cities List](screenshots/world_clock/cities.JPG)
+- [Custom City](screenshots/world_clock/custom_city.JPG)
+- [Add City](screenshots/world_clock/adding_cities.JPG)
+- [Delete City](screenshots/world_clock/deleting_cities.JPG)
+- [Live Time Updates](screenshots/world_clock/live_times.JPG)
 
 ---
 
 ### 🕌 Prayer Times
-- [Prayer Time Menu](screenshots/prayer_time/main_prayer_time_menu.jpg)
-- [Prayer Times Example](screenshots/prayer_time/prayer_times_ex1.jpg)
+- [Prayer Time Menu](screenshots/prayer_time/main_prayer_time_menu.JPG)
+- [Prayer Times Example](screenshots/prayer_time/prayer_times_ex1.JPG)
 
 ---
 
 ### 📋 Tasks & Events Manager
-- [Tasks & Events Main Menu](screenshots/tasks_events/main_menu_of_events_and_tasks.jpg)
+- [Tasks & Events Main Menu](screenshots/tasks_events/main_menu_of_events_and_tasks.JPG)
 
 **Tasks**
-- [Task Manager Menu](screenshots/tasks_events/tasks_manager_menu.jpg)
-- [Add Task](screenshots/tasks_events/adding_tasks.jpg)
-- [View Tasks](screenshots/tasks_events/viewing_tasks.jpg)
-- [Completed Tasks](screenshots/tasks_events/completed_tasks.jpg)
+- [Task Manager Menu](screenshots/tasks_events/tasks_manager_menu.JPG)
+- [Add Task](screenshots/tasks_events/adding_tasks.JPG)
+- [View Tasks](screenshots/tasks_events/viewing_tasks.JPG)
+- [Completed Tasks](screenshots/tasks_events/completed_tasks.JPG)
 
 **Events**
-- [Add Event](screenshots/tasks_events/adding_events.jpg)
-- [View Events](screenshots/tasks_events/viewing_events.jpg)
+- [Add Event](screenshots/tasks_events/adding_events.JPG)
+- [View Events](screenshots/tasks_events/viewing_events.JPG)
 
 **Records**
-- [Tasks & Events Record](screenshots/tasks_events/tasks_and_events_manager_record.jpg)
+- [Tasks & Events Record](screenshots/tasks_events/tasks_and_events_manager_record.JPG)
 
 ---
 
 ### ⏰ Smart Alarms
-- [Alarm Menu](screenshots/smart_alarm/alarms_menu.jpg)
-- [Add Alarm](screenshots/smart_alarm/adding_alarms.jpg)
-- [Alarm Status](screenshots/smart_alarm/alarms_status.jpg)
-- [Alarm Ringing](screenshots/smart_alarm/alarms_ringing.jpg)
-- [Missed Alarms](screenshots/smart_alarm/alarms_missed.jpg)
-- [Delete Alarm](screenshots/smart_alarm/deleting_alarms.jpg)
+- [Alarm Menu](screenshots/smart_alarm/alarms_menu.JPG)
+- [Add Alarm](screenshots/smart_alarm/adding_alarms.JPG)
+- [Alarm Status](screenshots/smart_alarm/alarms_status.JPG)
+- [Alarm Ringing](screenshots/smart_alarm/alarms_ringing.JPG)
+- [Missed Alarms](screenshots/smart_alarm/alarms_missed.JPG)
+- [Delete Alarm](screenshots/smart_alarm/deleting_alarms.JPG)
 
 ---
 
 ### 🛠 Utilities
-- [Utilities Menu](screenshots/utilities/utility_menu.jpg)
-- [Stopwatch](screenshots/utilities/stopwatch.jpg)
-- [Timer](screenshots/utilities/timer.jpg)
+- [Utilities Menu](screenshots/utilities/utility_menu.JPG)
+- [Stopwatch](screenshots/utilities/stopwatch.JPG)
+- [Timer](screenshots/utilities/timer.JPG)
 
 
 ---
