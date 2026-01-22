@@ -118,7 +118,7 @@ class ChronoSphereApp {
         System.out.println(CYAN + "╠═══════════════════════════════════════════════════════════════════════════════════════════════════════════╣" + RESET);
         System.out.println(CYAN + "║" + RESET + "                                                                                                           " + CYAN + "║" + RESET);
         System.out.println(CYAN + "║" + RESET + "                                         Current System Time:                                              " + CYAN + "║" + RESET);
-        System.out.println(CYAN + "║" + RESET + BRIGHT_YELLOW + "                                  [ " + date + " | " + time + " | " + day + " ]" + RESET +"" + CYAN + "                                    ║" + RESET);
+        System.out.println(CYAN + "║" + RESET + BRIGHT_YELLOW + "                                  [ " + date + " | " + time + " | " + day + " ]" + RESET +"" + CYAN + "                                     ║" + RESET);
         System.out.println(CYAN + "║" + RESET + "                                                                                                           " + CYAN + "║" + RESET);
         System.out.println(CYAN + "╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════╝" + RESET);
         System.out.println();

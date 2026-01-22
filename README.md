@@ -18,14 +18,17 @@
 ---
 
 ## Project Structure
+
 ChronoSphere/
-├── ChronoSphere.java # Main application file
-└── data/ # Data storage directory
-├── WorldClock.txt # Saved world clock cities
-├── PrayerTimesPAK.csv # Prayer time database
-├── TasksManager.txt # Task storage
-├── events.txt # Event storage
-└── addAlarm.txt # Alarm storage 
+├── ChronoSphere.java       # Main application file
+├── data/                   # Data storage directory
+│   ├── WorldClock.txt      # Saved world clock cities
+│   ├── PrayerTimesPAK.csv  # Prayer time database
+│   ├── TasksManager.txt    # Task storage
+│   ├── Events.txt          # Event storage
+│   └── Alarm.txt           # Alarm storage
+├── .gitignore
+└── README.md
 
 ---
 
@@ -49,18 +52,18 @@ ChronoSphere/
 ---
 
 ## Requirements
-Java Runtime Environment (JRE) 8+
-Terminal supporting ANSI colors
-Windows/Linux/macOS
+- Java Runtime Environment (JRE) 8+
+- Terminal supporting ANSI colors
+- Windows, Linux, or macOS
 
 ---
 
 ## Data Files
 All user data is stored in the data/ directory:
-Persistent storage of cities, alarms, tasks, and events
-CSV format for prayer times
-Text files for simple data storage
 
+- Persistent storage of cities, alarms, tasks, and events
+- CSV format for prayer times
+- Text files for simple data storage
 ---
 
 ## Notes / Tips
@@ -70,6 +73,8 @@ Text files for simple data storage
   "C:\\Users\\User\\OneDrive\\Desktop\\ChronoSphere\\data\\WorldClock.txt"
 Make sure to adjust the path in all 7–8 locations where files are referenced. Once these paths are correctly set, the program will work as intended.
 ✅ Following these steps ensures that all modules (World Clock, Prayer Times, Calendar, Alarms, Utilities) function correctly.
+
+
 
 
 Author
