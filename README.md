@@ -18,17 +18,17 @@
 ---
 
 ## Project Structure
-
 ChronoSphere/
-├── ChronoSphere.java       # Main application file
-├── README.md               # Project documentation
-├── screenshots/            # Application screenshots
-└── data/                   # Data storage directory
-├── WorldClock.txt          # Saved world clock cities
-├── PrayerTimesPAK.csv      # Prayer time database
-├── TasksManager.txt        # Task storage
-├── Events.txt              # Event storage
-└── addAlarm.txt            # Alarm storage
+├── ChronoSphere.java           # Main application file
+├── README.md                   # Project documentation
+├── screenshots/                # Application screenshots
+│   ├──all screenshots.JPG   
+└── data/                       # Data storage directory
+    ├── WorldClock.txt          # Saved world clock cities
+    ├── PrayerTimesPAK.csv      # Prayer time database
+    ├── TasksManager.txt        # Task storage
+    ├── Events.txt              # Event storage
+    └── addAlarm.txt            # Alarm storage
 
 ---
 
